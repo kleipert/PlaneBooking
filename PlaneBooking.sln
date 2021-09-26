@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaneBooking", "PlaneBooking\PlaneBooking.csproj", "{297C79A7-D2AB-4845-95B6-DA46376FB00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApplication", "MainApplication\MainApplication.csproj", "{D4FF541A-7634-47C2-9B08-424C0E6CC780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297C79A7-D2AB-4845-95B6-DA46376FB00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297C79A7-D2AB-4845-95B6-DA46376FB00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297C79A7-D2AB-4845-95B6-DA46376FB00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297C79A7-D2AB-4845-95B6-DA46376FB00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FF541A-7634-47C2-9B08-424C0E6CC780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FF541A-7634-47C2-9B08-424C0E6CC780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FF541A-7634-47C2-9B08-424C0E6CC780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FF541A-7634-47C2-9B08-424C0E6CC780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0DB4AA6-8F94-4F4E-82F2-AD7953892A95}
+	EndGlobalSection
+EndGlobal
